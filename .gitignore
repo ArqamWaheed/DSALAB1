@@ -67,3 +67,15 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Build directories
+/build/
+/Debug/
+/Release/
+
+# IDE metadata
+.vscode/
+.idea/
+
+# Compiled programs (no extension on linux)
+hello
