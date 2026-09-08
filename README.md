@@ -33,4 +33,4 @@ Same for task4 to task7.
 - findMode() returns -1 if the array is empty, and the first value if two values are tied.
 - Strassen only works for square matrices with size a power of 2, MAX is set to 8.
 
-Status: all tasks done
+Status: all tasks done and pushed before the deadline
