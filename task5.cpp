@@ -15,7 +15,7 @@ void generatePascal(int n, int triangle[][MAX_ROWS]) {
 
 void printPascal(int n, int triangle[][MAX_ROWS]) {
     for (int i = 0; i < n; i++) {
-        for (int j = 0; j < n; j++) {
+        for (int j = 0; j <= i; j++) {
             cout << triangle[i][j] << " ";
         }
         cout << endl;
